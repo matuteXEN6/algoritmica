@@ -1,0 +1,32 @@
+# Binarios y ejecutables
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+main
+main.exe
+
+# Entornos y editores
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln
+*.vcxproj*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporales / compilación
+build/
+bin/
+*.log
+*.tmp
+__pycache__/
+*.pyc
